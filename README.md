@@ -4,7 +4,7 @@
 
 - [Dokumentasi](https://youtu.be/gaguOyJWFFo)
 
-- [Demo program](pikriramdani.42web.io)
+- [Demo program](http://pikriramdani.42web.io/)
 
 ## Getting Started
 
