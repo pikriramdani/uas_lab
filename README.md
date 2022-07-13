@@ -9,7 +9,7 @@
 ## Getting Started
 
 ```shell
-git clone https://github.com/fajaragngn/lab-uas.git
+
 cd lab-uas
 ```
 
