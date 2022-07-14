@@ -2,7 +2,7 @@
 
 ## Link
 
-- [Dokumentasi](https://youtu.be/gaguOyJWFFo)
+- [Dokumentasi](https://youtu.be/Q3x3d1kcgWc)
 
 - [Demo program](http://pikriramdani.42web.io/)
 
