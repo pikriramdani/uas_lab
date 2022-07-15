@@ -9,8 +9,8 @@
 ## Getting Started
 
 ```shell
-
-cd lab-uas
+git clone https://github.com/pikriramdani/uas_lab.git
+cd uas_lab
 ```
 
 open terminal
